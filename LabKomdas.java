@@ -1,4 +1,8 @@
-// Program 2: CV Labkomdas 
+// PROGRAM 2 - CV LABKOMDAS:
+// Program ini adalah sistem pembelian jaket pada perusahaan CV. Labkomdas.
+// Harga jaket ditentukan secara tetap (menggunakan `final`) dan diskon otomatis berlaku jika jumlah pembelian lebih dari 100.
+// Program menerima input dari user dan menghitung total harga sesuai tipe jaket.
+
 import java.util.Scanner; // Import Scanner untuk membaca input dari pengguna
 
 public class LabKomdas { // Class yang merepresentasikan sistem pemesanan jaket di CV Labkomdas
